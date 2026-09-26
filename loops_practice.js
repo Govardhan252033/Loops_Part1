@@ -17,7 +17,7 @@ so we do not need to write 100 lines of code to print 100 number
 see below example of loop
 */
 
-for (let i = 1; i <= 100; i++) {
+/*for (let i = 1; i <= 100; i++) {
     console.log(i)
 }
 //

@@ -148,3 +148,11 @@ if (i2%10 ===0) {
 } console.log(i2)
 
 }
+
+// lets try skip number 20, 40, 60, 80, 100 from 1 to 100
+
+for (let o =1; o<=100; o++) {
+    if (o%20 ===0) {
+        continue;
+    } console.log(o)
+}
